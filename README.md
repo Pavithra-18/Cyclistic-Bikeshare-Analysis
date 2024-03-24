@@ -47,5 +47,13 @@ Pre-processing the data is a crucial phase before proceeding with analysis to de
 * Checking for duplicates and removing them
 * Removing null values
 
-**Analyze**:
+**Analyze** & **Share**:
+From the analysis, the following observations were found:
+* Members never used docked bikes
+* Members used classic bikes and electric bikes more than the casual riders
+* In contrary to members, maximum number of casual riders used the bikes on weekends rather than weekdays
+* Casual riders seem to be taking 2 times longer rides in contrary to members.
+* Most of the casual riders used the bikes in summer. Surprisingly, maximum memebers used the bikes in Autumn as compared to spring in contrary to casual riders.
 
+**Act**:
+Increase the ride
