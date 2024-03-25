@@ -56,4 +56,10 @@ From the analysis, the following observations were found:
 * Most of the casual riders used the bikes in summer. Surprisingly, maximum memebers used the bikes in Autumn as compared to spring in contrary to casual riders.
 
 **Act**:
-Increase the ride
+The following are the insights based on my analysis:
+* Provide some discounts on single day passes during weekdays which might be useful for casual riders.
+* Organize community events, workshops, or charity rides to engage with local communities and promote cycling as a healthy and sustainable mode of transportation. Collaborate with local authorities or non-profit organizations to support cycling infrastructure and safety initiatives.
+* Offer incentives for customers who choose electric bikes or participate in bike-sharing programs instead of using cars for short-distance travel.
+* Besides summer promotions, consider running promotions or special offers during other seasons as well. For example, offer discounted rides during off-peak seasons or special holiday promotions during festive periods.
+* Conduct occasional cycling activities on weekends which could increase the participation of both casual riders and members.
+
